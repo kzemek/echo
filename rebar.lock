@@ -1,0 +1,8 @@
+[{<<"etls">>,
+  {git,"git://github.com/kzemek/etls.git",
+       {ref,"6b45a0c256bc46f4654a9bdf187e43c14624704c"}},
+  0},
+ {<<"ranch">>,
+  {git,"git://github.com/ninenines/ranch.git",
+       {ref,"a004ad710eddd0c21aaccc30d5633a76b06164b5"}},
+  0}].
